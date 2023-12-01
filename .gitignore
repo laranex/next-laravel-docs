@@ -1,0 +1,6 @@
+/node_modules
+.DS_Store
+.idea
+.vitepress/cache
+.vitepress/dist
+gitignored_folder
