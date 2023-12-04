@@ -18,7 +18,7 @@ Generated route will be at `routes/api/v1/blog.php`
 ### Options
 
 - --api : generated route file will be store in a api See more at
-  - [Configuration](/configuration.html#config)
+  - [Configuration](https://github.com/laranex/next-laravel/blob/master/config/next-laravel.php)
   - [NextLaravelServiceProvider.php](https://github.com/laranex/next-laravel/blob/master/src/NextLaravelServiceProvider.php#L46)
   - [RouteMakeCommand.php](https://github.com/laranex/next-laravel/blob/master/src/Commands/RouteMakeCommand.php)
 - --force : the command will fail if there is existing file with the given path and name, this option will delete the existing file and replace with new generated file
