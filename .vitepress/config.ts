@@ -28,10 +28,10 @@ export default defineConfigWithTheme<ThemeConfig>({
             type: 'image/png',
             href: '/icons/32x32.png',
         }],
-        ['link', {
-            rel: 'manifest',
-            href: 'https://forge.laravel.com/site.webmanifest',
-        }],
+        // ['link', {
+        //     rel: 'manifest',
+        //     href: 'https://forge.laravel.com/site.webmanifest',
+        // }],
         /*['link', {
             rel: 'mask-icon',
             href: '/icons/32x32.png',
@@ -43,19 +43,7 @@ export default defineConfigWithTheme<ThemeConfig>({
         ['meta', {
             name: 'msapplication-TileImage',
             content: '/icons/144x144.png',
-        }],
-        ['meta', {
-            property: 'og:image',
-            content: '/icons/1200x630_facebook.png',
-        }],
-        ['meta', {
-            property: 'twitter:card',
-            content: 'summary_large_image',
-        }],
-        ['meta', {
-            property: 'twitter:image',
-            content: '/icons/1200x675_twitter.png',
-        }],
+        }]
     ],
 
     themeConfig: {

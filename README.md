@@ -6,7 +6,7 @@ Official documentation for Next Laravel Package
 
 > **Documentation** - [https://next-laravel.netlify.app](https://next-laravel.netlify.app)
 
-
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/laranex/next-laravel.svg?style=flat-square)](https://packagist.org/packages/laranex/next-laravel)
 [![Total Downloads](https://img.shields.io/packagist/dt/laranex/next-laravel.svg?style=flat-square)](https://packagist.org/packages/laranex/next-laravel)
 [![run-tests](https://github.com/laranex/next-laravel/actions/workflows/run-tests.yml/badge.svg)](https://github.com/laranex/next-laravel/actions/workflows/run-tests.yml)
 
