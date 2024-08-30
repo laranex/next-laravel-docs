@@ -7,7 +7,7 @@
 
 ### Routes
 
-Route are just the same as Laravel default routes. The only difference is that we load our load from our NextLaravelServiceProvider and of course, 
+Route are just the same as Laravel default routes. The only difference is that we load our routes from our NextLaravelServiceProvider and of course, 
 you can have 100% control over the routes. See more at
 - [Configuration](/configuration.html#config)
 - [NextLaravelServiceProvider.php](https://github.com/laranex/next-laravel/blob/master/src/NextLaravelServiceProvider.php#L46)
