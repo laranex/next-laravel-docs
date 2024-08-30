@@ -13,7 +13,7 @@ you can have 100% control over the routes. See more at
 - [NextLaravelServiceProvider.php](https://github.com/laranex/next-laravel/blob/master/src/NextLaravelServiceProvider.php#L46)
 
 ### Module
-Module is where we wrap our business layers into separate units. A module can have followings.
+Modules are where we wrap our business layers into separate units. A module can have followings.
 - HTTP
   - Controllers
   - Requests
