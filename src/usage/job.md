@@ -58,7 +58,7 @@ class NotifyViaEmailJob extends QueueableJob
 
     public function handle(): void
     {
-        // notify to each subscriber will be processed in the queue
+        // here is your logic to handle data, but as a queue
     }
 }
 ```
